@@ -1,3 +1,3 @@
 import pandas as pd 
-teams =pd.read_csv()
+teams = pd.read_csv("teams.csv")
 teams
